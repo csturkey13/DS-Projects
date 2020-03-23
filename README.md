@@ -1,2 +1,1 @@
-# Metis-Project-1
-# Metis-Projects-2019
+# Collection of 4 Data Science Projects 
